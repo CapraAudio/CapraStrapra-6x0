@@ -1,4 +1,4 @@
-# CapraStrapra-6x0 Instructions
+# CapraStrapra-6x0 Install Instructions
 Comfort Strap for the HD6X0 series of headphones
 1. Remove the Stock Retention Tab
 ![1](https://user-images.githubusercontent.com/122894651/218276886-c20ea759-79d0-4e77-8dc3-5ffb8af66019.jpg)
