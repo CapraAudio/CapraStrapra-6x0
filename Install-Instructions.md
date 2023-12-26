@@ -1,4 +1,4 @@
-# CapraStrapra-6x0 Install Instructions
+# Installation Instructions
 
 How to install my comfort strap for the HD-6X0 series of headphones!
 
@@ -19,7 +19,7 @@ How to install my comfort strap for the HD-6X0 series of headphones!
 
     ![5](https://user-images.githubusercontent.com/122894651/218276893-3593b704-3404-41b1-858a-69f67b2c4f85.jpg)
 
-5. Slide the Cover Strip into the groves where the stock pad used to reside. (This is optional but highly recommended)
+5. (Optional) Slide the Cover Strip into the groves where the stock pad used to reside.
 
     ![6](https://user-images.githubusercontent.com/122894651/218276896-a881ff23-27db-4725-b5be-b3f4cfaa1bbd.jpg)
     ![7](https://user-images.githubusercontent.com/122894651/218276899-c7171e10-9e94-4442-90b5-0e26dd8c9647.jpg)
@@ -37,3 +37,5 @@ How to install my comfort strap for the HD-6X0 series of headphones!
 8. Repeat on the other side.
 
     ![12](https://user-images.githubusercontent.com/122894651/218276906-eb35029f-d71d-4e4d-a80d-ab1eaa0d4fa4.jpg)
+
+If the strap is secure and set in place, then you're set and can enjoy your new suspension strap!
