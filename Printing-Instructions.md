@@ -12,4 +12,4 @@ Select the center section and change the per model settings to the ones below.<p
 
 Print the Side clips in a stiff material such as PLA, ABS, or PETG.
 
-After all if that is printed, head to [the installation instructions](https://github.com/CapraAudio/CapraStrapra-Hifiman/blob/main/Install-Instructions.md) to assemble it!
+After all if that is printed, head to [the installation instructions](https://github.com/CapraAudio/CapraStrapra-6x0/blob/main/Install-Instructions.md) to assemble it!
